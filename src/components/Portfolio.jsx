@@ -188,7 +188,7 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
                         />
                         <div className="portfolio-overlay">
                           <span
-                            className="popup-ajax stretched-link"
+                            className="popup-ajax stretched-link project-component"
                             onClick={() => {
                               setSelectedProjectDetails(projectsData[index]);
                             }}
