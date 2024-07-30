@@ -23,7 +23,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
               (darkTheme ? "text-white" : "text-dark")
             }
           >
-            What Am I ?
+            Who Am I ?
             <span className="heading-separator-line border-bottom border-3 border-primary d-block mx-auto" />
           </p>
         </div>
