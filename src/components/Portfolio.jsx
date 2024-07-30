@@ -187,14 +187,14 @@ const Portfolio = ({ classicHeader, darkTheme }) => {
                           alt=""
                         />
                         <div className="portfolio-overlay">
-                          <a
+                          <span
                             className="popup-ajax stretched-link"
                             onClick={() => {
                               setSelectedProjectDetails(projectsData[index]);
                             }}
                             data-bs-toggle="modal"
                             data-bs-target="#exampleModal"
-                          />
+                          ></span>
                           <div className="portfolio-overlay-details">
                             <h5 className="text-white fw-400">
                               {project.title}
