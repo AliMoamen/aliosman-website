@@ -14,7 +14,7 @@ const Social = () => {
         </Tooltip>
       </li>
       <li className="social-icons-github">
-        <Tooltip text="Google" placement="top">
+        <Tooltip text="Github" placement="top">
           <a
             href="https://github.com/AliMoamen"
             target="_blank"
