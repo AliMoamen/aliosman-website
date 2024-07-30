@@ -16,7 +16,7 @@ const Social = () => {
       <li className="social-icons-github">
         <Tooltip text="Google" placement="top">
           <a
-            href="http://www.google.com/"
+            href="https://github.com/AliMoamen"
             target="_blank"
             rel="noopener noreferrer"
           >
