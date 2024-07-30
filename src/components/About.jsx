@@ -64,7 +64,9 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                 </li>
                 <li>
                   <span className="fw-600 me-2">Email:</span>
-                  <a href="mailto:chat@simone.com">osman@uni.minerva.edu</a>
+                  <a href="mailto:osman@uni.minerva.edu">
+                    osman@uni.minerva.edu
+                  </a>
                 </li>
                 <li className="border-0">
                   <span className="fw-600 me-2">From:</span>San Francisco,
@@ -76,7 +78,7 @@ const AboutUs = ({ classicHeader, darkTheme }) => {
                 download
                 className="btn btn-primary rounded-pill"
               >
-                Download CV
+                Download Resume
               </a>
             </div>
           </div>
